@@ -1,0 +1,6 @@
+framework module Pods_Homiez {
+  umbrella header "Pods-Homiez-umbrella.h"
+
+  export *
+  module * { export * }
+}
